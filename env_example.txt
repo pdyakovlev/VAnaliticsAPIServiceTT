@@ -1,0 +1,4 @@
+DB_URL = postgresql+asyncpg://postgres:PostgrePass@localhost:5432/TestDB
+APP_TITLE = Сервис обработки изображений
+DESCRIPTION = Сервис обработки изображений для платформы видеоаналитики
+ML_SERVICE_URL = http://127.0.0.1:8080/
